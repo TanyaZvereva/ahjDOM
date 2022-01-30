@@ -1,0 +1,13 @@
+body {
+    color: #999;
+}
+span {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+span.goblin {
+    background-image: url('https://raw.githubusercontent.com/netology-code/ahj-homeworks/simplification/dom/pic/goblin.png');
+}
